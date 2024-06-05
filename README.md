@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello everyone!<br><br>I'm currently focusing on developing courses in Svelte and web development. <br>Additionally, I share content on YouTube, Twitter, and Threads.<br><br>Enjoy exploring!
+Hello everyone!<br><br>I'm currently focusing on developing courses in Svelte and web development.
 
 
 ## 🌐 Socials:
